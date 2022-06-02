@@ -24,7 +24,8 @@ An knackigeren Seitentiteln kann man dann ja noch feilen wenn es eine fixe Entsc
 * **Roadmap**: wie gehabt *(eventuell kann die Roadmap auch auf die “Warum Genderklage” Seite; je nachdem wie wichtig sie dir auf der Startseite ist)*
 * **Unterstützer*innen und Koops**: wie gehabt
 
-### 2. Neue Seite: Warum Genderklage? *(man könnte die Seite auch “Die Genderklage” nennen)* — sollte im Menü sein
+### 2. Neue Seite: Warum Genderklage? *(man könnte die Seite auch “Die Genderklage” oder “Wer wir sind” nennen)* — sollte im Menü sein
+* **Wer wir sind**: Wer steckt hinter Genderklage (Abgrenzung Verein etc.)
 * Das was derzeit unter **„Worum es uns geht“** steht
 * **Klagen**: Hinweis dass es mehrer Klagen gibt und link zur neuen Page “Alle Klagen im Überblick”
 * **Genderklage erklärt**: Alles das was in den “Zur Klage” FAQs steht würde ich hier einarbeiten *(wenn es dir lieber ist, alle Klagen gleich stark zu präsentieren, kannst du diesen Teil natürlich auch auf “Alle Klagen im Überblick” tun, aber es wird ein Ungleichgewicht bleiben, weil du zu deiner Klage halt mehr Infos hast)*
